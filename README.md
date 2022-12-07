@@ -1,7 +1,7 @@
 # There are Xiangnan Zhang's Weekly Homework of Coding1
 ## Week1:https://mimicproject.com/code/1bac1713-919b-89ce-69e7-de28d8df86f1
 ## Week2:https://mimicproject.com/code/3664dbf9-1e91-3504-a595-e9e8ac431a94
-## Week3:https://mimicproject.com/code/a7536fb5-fb3d-d8b1-8f90-59a553a35485
+## Week3:[https://mimicproject.com/code/a7536fb5-fb3d-d8b1-8f90-59a553a35485](https://mimicproject.com/code/640c2929-7f56-1752-1307-6ca1556d319a)
 ## Week4:https://mimicproject.com/code/eae54b88-0584-3d3d-a0dd-d7f3b512c8d8
 ## Week5(Strike Week)
 ## Week6:https://mimicproject.com/code/fc1db397-35d1-38ea-bfab-83a83258d44a
